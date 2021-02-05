@@ -1,5 +1,7 @@
 # OPNLv2
-The OPNL License v2 template repository. Make sure you edit `*Copyright © (YEAR) (Copyright Holder)*` in the `.github/LICENSE.md` file.
+*The OPNL License v2 template repository*
+
+Make sure you edit `*Copyright © (YEAR) (Copyright Holder)*` in the `.github/LICENSE.md` file.
 
 # OPNL-2.0
 
